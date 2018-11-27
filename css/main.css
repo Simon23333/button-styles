@@ -7,6 +7,12 @@ html {
   box-sizing: inherit;
 }
 
+div {
+  padding: 0;
+  text-align: center;
+  margin: 1rem;
+}
+
 .btn {
   display: inline-block;
   color: #fff;
